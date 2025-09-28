@@ -2,14 +2,14 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlseGVubXR5cGxtd29lbXNlMHd4MnR1NnB4aWFvMXVteGFmZ2Y0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
 
 <h1>
-  hi, i'm thuy 🍉
+  hi, i'm thuy ≧'◡'≦
 </h1>
 </div>
 
 - 🐊 CS 2027 @University of Florida
 - ✒️ Coder
 - 📧 lecrystal1808@gmail.com [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thuy-n-le) 
-- 🍉 https://tl-portfolio-ebon.vercel.app/ 
+- 🌸 https://tl-portfolio-ebon.vercel.app/ 
 
 ## ⚒️ languages & tools
 <div>

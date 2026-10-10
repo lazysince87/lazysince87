@@ -8,10 +8,9 @@
 
 - 🐊 CS 2027 @University of Florida
 - ✒️ Coder
-- 📧 lecrystal1808@gmail.com [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thuy-n-le) 
-- 🌸 https://tl-portfolio-ebon.vercel.app/
+- 📧 lecrystal1808@gmail.com [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thuy-n-le)
 - 🌸 https://thuy-n-le.vercel.app/
-- 🌸 https://thuy-le.vercel.app/ 
+- 🌸 https://tl-portfolio-ebon.vercel.app/
 
 ## ⚒️ languages & tools
 <div>

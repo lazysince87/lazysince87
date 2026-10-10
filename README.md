@@ -10,6 +10,7 @@
 - ✒️ Coder
 - 📧 lecrystal1808@gmail.com [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thuy-n-le) 
 - 🌸 https://tl-portfolio-ebon.vercel.app/
+- 🌸 https://thuy-n-le.vercel.app/
 - 🌸 https://thuy-le.vercel.app/ 
 
 ## ⚒️ languages & tools
